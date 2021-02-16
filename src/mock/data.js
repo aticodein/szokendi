@@ -9,10 +9,10 @@ export const headData = {
 
 // HERO DATA
 export const heroData = {
-  title: '',
-  name: '',
-  subtitle: '',
-  cta: '',
+  title: 'Üdvözöllek',
+  name: 'Szökendi Bea',
+  subtitle: 'bemutatkozó weboldalán',
+  cta: 'Rólam',
 };
 
 // ABOUT DATA
@@ -67,12 +67,12 @@ export const footerData = {
   networks: [
     {
       id: nanoid(),
-      name: 'twitter',
+      name: 'facebook',
       url: '',
     },
     {
       id: nanoid(),
-      name: 'codepen',
+      name: 'instagram',
       url: '',
     },
     {
@@ -82,13 +82,8 @@ export const footerData = {
     },
     {
       id: nanoid(),
-      name: 'github',
+      name: 'facebook-messenger',
       url: '',
     },
   ],
-};
-
-// Github start/fork buttons
-export const githubButtons = {
-  isEnabled: true, // set to false to disable the GitHub stars/fork buttons
 };
