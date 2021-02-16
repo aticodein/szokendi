@@ -19,7 +19,7 @@ const Contact = () => {
               target="_blank"
               rel="noopener noreferrer"
               className="cta-btn cta-btn--resume"
-              href={email ? `mailto:${email}` : 'https://m.me/bea.szokendi'}
+              href={email ? `mailto:${email}` : 'https://m.me/beatrix.szokendi'}
             >
               {btn || 'Messenger'}
             </a>

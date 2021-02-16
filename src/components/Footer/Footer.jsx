@@ -22,7 +22,7 @@ const Footer = () => {
               return (
                 <a
                   key={id}
-                  href={url || 'https://'}
+                  href={url || ''}
                   rel="noopener noreferrer"
                   target="_blank"
                   aria-label={name}
@@ -35,7 +35,11 @@ const Footer = () => {
         <hr />
         <p className="footer__text">
           © {new Date().getFullYear()} - Minden jog fentarva{' '}
-          <a href="https://" target="_blank" rel="noopener noreferrer">
+          <a
+            href="https://www.facebook.com/beatrix.szokendi"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             Szökendi Bea
           </a>
         </p>

@@ -10,7 +10,7 @@ export const headData = {
 // HERO DATA
 export const heroData = {
   title: 'Üdvözöllek',
-  name: 'Szökendi Bea',
+  name: 'Szökendi Beatrix',
   subtitle: 'bemutatkozó weboldalán',
   cta: 'Rólam',
 };
@@ -21,28 +21,29 @@ export const aboutData = {
   paragraphOne: '',
   paragraphTwo: '',
   paragraphThree: '',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  resume: 'https://m.me/beatrix.szokendi', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
+    img: 'egeszseg.jpg',
+    title: 'Egészség',
     info: '',
     info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    url: 'https://m.me/beatrix.szokendi',
+    repo: '', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
+    img: 'universum.jpg',
+    title: 'Megelőzés',
+    info:
+      'Minden mindennel összefügg és mindenki mindenkihez kapcsolódik. Amit gondolunk, mondunk és hiszünk, az hatással lesz másokra és a körülöttünk levő univerzumra is. Független attól, hogy az emberek közel, vagy távol vannak tőlünk, vagyis sem az idő sem a tér nem befolyásolja ezt. A törvény segít nekünk felismerni azt, hogy mindannyian végtelenül értékes emberek vagyunk az Univerzumban...',
     info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    url: 'https://m.me/beatrix.szokendi',
+    repo: '', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
@@ -68,21 +69,11 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'facebook',
-      url: '',
+      url: 'https://www.facebook.com/beatrix.szokendi',
     },
     {
       id: nanoid(),
       name: 'instagram',
-      url: '',
-    },
-    {
-      id: nanoid(),
-      name: 'linkedin',
-      url: '',
-    },
-    {
-      id: nanoid(),
-      name: 'facebook-messenger',
       url: '',
     },
   ],
