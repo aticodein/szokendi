@@ -40,7 +40,7 @@ const Footer = () => {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Szökendi Bea
+            Szökendi Beatrix
           </a>
         </p>
       </Container>
