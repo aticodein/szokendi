@@ -31,8 +31,10 @@ export const projectsData = [
     id: nanoid(),
     img: 'egeszseg.jpg',
     title: 'Egészség',
-    info: '',
-    info2: '',
+    info:
+      '"A test, a lélek és a szellem hármasa adja meg az egészséget." A jóllét érzése, mentesség a megbetegedéstől. Ha szervezetünk kellő képen ki van szolgálva a megfelelő értékes tápanyagokkal, a betegség fogalmát nem fogjuk ismerni. ',
+    info2:
+      'Általános és optimális jól lét= egyenlő az egészséggel. Az egészséges életvitel sokkal inkább azon az értékrendszeren alapul, amellyel a bennünket körülvevő világhoz viszonyulunk. Az egészség a teljes fizikális, mentális és szociális jóllét állapota, nem pedig pusztán a betegségek hiánya.',
     url: 'https://m.me/beatrix.szokendi',
     repo: '', // if no repo, the button will not show up
   },
@@ -41,7 +43,7 @@ export const projectsData = [
     img: 'universum.jpg',
     title: 'Megelőzés',
     info:
-      'Minden mindennel összefügg és mindenki mindenkihez kapcsolódik. Amit gondolunk, mondunk és hiszünk, az hatással lesz másokra és a körülöttünk levő univerzumra is. Független attól, hogy az emberek közel, vagy távol vannak tőlünk, vagyis sem az idő sem a tér nem befolyásolja ezt. A törvény segít nekünk felismerni azt, hogy mindannyian végtelenül értékes emberek vagyunk az Univerzumban...',
+      'A dolgokhoz való jó hozzáállás fontosabb mint a tudás. Megelőzni azokat a dolgokat melyeket nem szeretnénk, főként gondolkodásunkból eredő, jó hozzáállás adja. A félelem, zavarodottság nem jó vezérfonal életünkben, mert  az egészség és siker, legnagyobb ellensége. Megakadályozhatja az embert abban, hogy éljen az eléje táruló lehetőségeivel, aláaknázza az életerőt, akár meg is betegítheti az embert.',
     info2: '',
     url: 'https://m.me/beatrix.szokendi',
     repo: '', // if no repo, the button will not show up
