@@ -6732,10 +6732,10 @@
     "semver" "^5.7.1"
     "sharp" "^0.25.1"
 
-"gatsby@^2.0.0", "gatsby@^2.12.1", "gatsby@^2.2.0", "gatsby@^2.23.7", "gatsby@^2.24.79", "gatsby@^2.4.0", "gatsby@>2.0.15":
-  "integrity" "sha512-6l1ktlIbj6dRDnAPi+dh/tAEx7FdEYm55RwM3aiFEpwNIHeevG+Jw1RZhIpwUmhkGBwaOjr559KJYf7dYuXk3w=="
-  "resolved" "https://registry.npmjs.org/gatsby/-/gatsby-2.32.3.tgz"
-  "version" "2.32.3"
+"gatsby@^2.0.0", "gatsby@^2.12.1", "gatsby@^2.2.0", "gatsby@^2.24.79", "gatsby@^2.32.4", "gatsby@^2.4.0", "gatsby@>2.0.15":
+  "integrity" "sha512-Jpqp8pwQJab6fpGdB3OmJk3UXqPvmYHH6YugF9CYfsTyJXy3yoOSxJ6hMzZeZxEnxeJ5RnJlGRyMEZJtpmy3ZQ=="
+  "resolved" "https://registry.npmjs.org/gatsby/-/gatsby-2.32.4.tgz"
+  "version" "2.32.4"
   dependencies:
     "@babel/code-frame" "^7.10.4"
     "@babel/core" "^7.12.3"
@@ -6874,7 +6874,6 @@
     "string-similarity" "^1.2.2"
     "strip-ansi" "^5.2.0"
     "style-loader" "^0.23.1"
-    "terminal-link" "^2.1.1"
     "terser-webpack-plugin" "^2.3.8"
     "tmp" "^0.2.1"
     "true-case-path" "^2.2.1"
@@ -13641,14 +13640,6 @@
   dependencies:
     "has-flag" "^4.0.0"
 
-"supports-hyperlinks@^2.0.0":
-  "integrity" "sha512-zoE5/e+dnEijk6ASB6/qrK+oYdm2do1hjoLWrqUC/8WEIW1gbxFcKuBof7sW8ArN6e+AYvsE8HBGiVRWL/F5CA=="
-  "resolved" "https://registry.npmjs.org/supports-hyperlinks/-/supports-hyperlinks-2.1.0.tgz"
-  "version" "2.1.0"
-  dependencies:
-    "has-flag" "^4.0.0"
-    "supports-color" "^7.0.0"
-
 "svgo@^1.0.0", "svgo@1.3.2":
   "integrity" "sha512-yhy/sQYxR5BkC98CY7o31VGsg014AKLEPxdfhora76l36hD9Rdy5NZA/Ocn6yayNPgSamYdtX2rFJdcv07AYVw=="
   "resolved" "https://registry.npmjs.org/svgo/-/svgo-1.3.2.tgz"
@@ -13768,14 +13759,6 @@
   "integrity" "sha512-a6sumDlzyHVJWb8+YofY4TW112G6p2FCPEAFk+59gIYHv3XHRhm9ltVQ9kli4hNWeQBwSpe8cRN25x0ROunMOw=="
   "resolved" "https://registry.npmjs.org/term-size/-/term-size-2.2.0.tgz"
   "version" "2.2.0"
-
-"terminal-link@^2.1.1":
-  "integrity" "sha512-un0FmiRUQNr5PJqy9kP7c40F5BOfpGlYTrxonDChEZB7pzZxRNp/bt+ymiy9/npwXya9KH99nJ/GXFIiUkYGFQ=="
-  "resolved" "https://registry.npmjs.org/terminal-link/-/terminal-link-2.1.1.tgz"
-  "version" "2.1.1"
-  dependencies:
-    "ansi-escapes" "^4.2.1"
-    "supports-hyperlinks" "^2.0.0"
 
 "terser-webpack-plugin@^1.4.3":
   "integrity" "sha512-U4mACBHIegmfoEe5fdongHESNJWqsGU+W0S/9+BmYGVQDw1+c2Ow05TpMhxjPK1sRb7cuYq1BPl1e5YHJMTCqA=="
