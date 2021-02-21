@@ -78,7 +78,7 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'instagram',
-      url: '',
+      url: 'https://www.instagram.com/szokendi/',
     },
   ],
 };
