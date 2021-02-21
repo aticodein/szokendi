@@ -18,7 +18,8 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne: '',
+  paragraphOne:
+    'Saját magam vagyok az igazi védjegyem. Emberekkel foglalkozom, segítek, hogy minél hosszabb távon, egészségben, jólétben élhessenek. Azokhoz szólok, akik szeretnének egészségesen, nyugodtan élni, harmóniába kerülni újra önmagukkal. “Ép testben ép lélek”. Mindkettőért tenni kell, mert ha csak az egyikért teszünk, és a másikat figyelmen kívül hagyjuk, akkor sosem érhetjük el a teljes testi-lelki harmóniát.',
   paragraphTwo: '',
   paragraphThree: '',
   resume: 'https://m.me/beatrix.szokendi', // if no resume, the button will not show up
@@ -47,12 +48,13 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
+    img: 'family.jpg',
+    title: 'Amit szeretnék átadni másoknak',
+    info:
+      'Célom, hogy a hozzám betérő emberekkel megismertessem, egyedülálló technológiával készült, kemikáliamentes, természetes készítményeinket, mellyel a testi, lelki, és szellemi egyensúlyt harmonikusan képes visszaállítani, és ezáltal akár a jó közérzetet is újra biztosítani. Ha a gondolatainkat képesek vagyunk pozitív irányba terelni, akkor megváltozik az életünk, hiszen a korábbi problémáink forrására is másként tekintünk.',
     info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    url: 'https://m.me/beatrix.szokendi',
+    repo: '', // if no repo, the button will not show up
   },
 ];
 
