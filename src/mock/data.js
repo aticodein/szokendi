@@ -34,7 +34,7 @@ export const projectsData = [
     info:
       '"A test, a lélek és a szellem hármasa adja meg az egészséget." A jóllét érzése, mentesség a megbetegedéstől. Ha szervezetünk kellő képen ki van szolgálva a megfelelő értékes tápanyagokkal, a betegség fogalmát nem fogjuk ismerni. ',
     info2:
-      'Általános és optimális jól lét= egyenlő az egészséggel. Az egészséges életvitel sokkal inkább azon az értékrendszeren alapul, amellyel a bennünket körülvevő világhoz viszonyulunk. Az egészség a teljes fizikális, mentális és szociális jóllét állapota, nem pedig pusztán a betegségek hiánya.',
+      'Általános és optimális jól lét egyenlő az egészséggel. Az egészséges életvitel sokkal inkább azon az értékrendszeren alapul, amellyel a bennünket körülvevő világhoz viszonyulunk. Az egészség a teljes fizikális, mentális és szociális jóllét állapota, nem pedig pusztán a betegségek hiánya.',
     url: 'https://m.me/beatrix.szokendi',
     repo: '', // if no repo, the button will not show up
   },
